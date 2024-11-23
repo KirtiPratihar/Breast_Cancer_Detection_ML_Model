@@ -2,17 +2,17 @@
 
 ## Welcome
 
-Welcome to the **all_MLpackage**  repository! The **all_MLpackage** is a comprehensive machine learning package that utilizes all major algorithms provided by scikit-learn for breast cancer detection. The package facilitates easy comparison of multiple models by automatically generating accuracy comparison graphs and tabular results. This project aims to assist in identifying the most effective model for breast cancer diagnosis by providing insights into the performance of various algorithms on the same dataset.
+Welcome to the **Breast_Cancer_Detection_ML_Model**  repository! The **Breast_Cancer_Detection_ML_Model** is a comprehensive machine learning package that utilizes all major algorithms provided by scikit-learn for breast cancer detection. The package facilitates easy comparison of multiple models by automatically generating accuracy comparison graphs and tabular results. This project aims to assist in identifying the most effective model for breast cancer diagnosis by providing insights into the performance of various algorithms on the same dataset.
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in **all_MLpackage**  a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and leaders pledge to make participation in **Breast_Cancer_Detection_ML_Model**  a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community, ensuring that all contributors feel supported and empowered to engage meaningfully in the project.
 
 ## Our Standards
 
-To maintain a positive, constructive, and respectful environment in the **all_MLpackage**  project, all participants are expected to adhere to the following standards:
+To maintain a positive, constructive, and respectful environment in the **Breast_Cancer_Detection_ML_Model**  project, all participants are expected to adhere to the following standards:
 
 ### Positive Behavior:
 - **Respectful Communication**: Engage with others respectfully, ensuring that discussions remain professional and focused on the goals of the project.
@@ -32,7 +32,7 @@ To maintain a positive, constructive, and respectful environment in the **all_ML
 
 ## Project Goals
 
-The **The Wizards Sorting Hat** project aims to create a social platform that allows developers to engage with the GitHub community through authenticated interactions. The key goals include:
+The **Breast_Cancer_Detection_ML_Model** project aims to create a social platform that allows developers to engage with the GitHub community through authenticated interactions. The key goals include:
 - **Community Engagement**: Providing a space for developers to share thoughts, ideas, and insights with the wider GitHub community.
 - **Collaboration**: Encouraging interaction and collaboration among developers through meaningful discussions and updates.
 - **GitHub Profile Exploration**: Enabling users to explore the GitHub profiles of fellow developers, facilitating networking and knowledge-sharing.
@@ -40,7 +40,7 @@ The **The Wizards Sorting Hat** project aims to create a social platform that al
 
 ## Enforcement Responsibilities
 
-Community leaders and maintainers of the **all_MLpackage**  project are responsible for enforcing this Code of Conduct. They are expected to:
+Community leaders and maintainers of the **Breast_Cancer_Detection_ML_Model**  project are responsible for enforcing this Code of Conduct. They are expected to:
 
 - Clearly communicate the standards for acceptable behavior and ensure that all participants are aware of them.
 - Respond to violations of the Code of Conduct in a timely and fair manner.
@@ -49,7 +49,7 @@ Community leaders and maintainers of the **all_MLpackage**  project are responsi
 
 ## Scope
 
-This Code of Conduct applies to all spaces managed by **The Wizards Sorting Hat**, including GitHub repositories, issue trackers, discussions, and other communication platforms. It also applies when community members represent the project in public spaces, such as conferences, online events, or forums.
+This Code of Conduct applies to all spaces managed by **Breast_Cancer_Detection_ML_Model**, including GitHub repositories, issue trackers, discussions, and other communication platforms. It also applies when community members represent the project in public spaces, such as conferences, online events, or forums.
 
 ## Reporting Violations
 
@@ -86,7 +86,7 @@ Community leaders will follow these guidelines when determining the consequences
 
 ## Building a Positive Community
 
-At **The Wizards Sorting Hat**, we are dedicated to creating a welcoming, inclusive, and supportive community where developers can engage, share insights, and collaborate effectively. By working together, we can create a platform that promotes meaningful interaction and knowledge sharing among GitHub users. Let’s work together with respect, integrity, and a shared passion for connecting developers through innovative solutions.
+At **Breast_Cancer_Detection_ML_Model**, we are dedicated to creating a welcoming, inclusive, and supportive community where developers can engage, share insights, and collaborate effectively. By working together, we can create a platform that promotes meaningful interaction and knowledge sharing among GitHub users. Let’s work together with respect, integrity, and a shared passion for connecting developers through innovative solutions.
 
 ## Attribution
 
