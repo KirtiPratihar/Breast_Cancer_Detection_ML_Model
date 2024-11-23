@@ -1,8 +1,9 @@
-# all_MLpackage
+# Breast_Cancer_Detection_ML_Model
+
 
 ## Overview
 
-The `all_MLpackage` is a comprehensive machine learning package that utilizes all major algorithms provided by scikit-learn for breast cancer detection. The package facilitates easy comparison of multiple models by automatically generating accuracy comparison graphs and tabular results. This project aims to assist in identifying the most effective model for breast cancer diagnosis by providing insights into the performance of various algorithms on the same dataset.
+The `Breast_Cancer_Detection_ML_Model` is a comprehensive machine learning package that utilizes all major algorithms provided by scikit-learn for breast cancer detection. The package facilitates easy comparison of multiple models by automatically generating accurate comparison graphs and tabular results. This project aims to assist in identifying the most effective model for breast cancer diagnosis by providing insights into the performance of various algorithms on the same dataset.
 
 ## Key Features
 
@@ -17,7 +18,7 @@ The `all_MLpackage` is a comprehensive machine learning package that utilizes al
 To install the package, use pip:
 
 ```bash
-pip install all_MLpackage
+pip install Breast_Cancer_Detection_ML_Model
 ```
 
 ## Quickstart
@@ -27,7 +28,7 @@ pip install all_MLpackage
 The package works with any dataset compatible with scikit-learn. Below is an example using the popular breast cancer dataset:
 
 ```python
-from all_MLpackage import compare_models
+from Breast_Cancer_Detection_ML_Model import compare_models
 from sklearn.datasets import load_breast_cancer
 
 # Load breast cancer dataset
@@ -52,7 +53,7 @@ After running the above command, the package will automatically generate:
 
 ## Machine Learning Algorithms
 
-`all_MLpackage` supports the following machine learning algorithms, with descriptions on their relevance to breast cancer detection:
+`Breast_Cancer_Detection_ML_Model` supports the following machine learning algorithms, with descriptions on their relevance to breast cancer detection:
 
 1. **Logistic Regression**  
    A robust algorithm for binary classification tasks, Logistic Regression is ideal for determining whether a tumor is malignant or benign.
@@ -91,7 +92,7 @@ The accuracies of all models are also presented in a tabular format for easy ref
 Below is an example of how to implement and use the `all_MLpackage`:
 
 ```python
-from all_MLpackage import compare_models
+from Breast_Cancer_Detection_ML_Model import compare_models
 from sklearn.datasets import load_breast_cancer
 
 # Load the breast cancer dataset
